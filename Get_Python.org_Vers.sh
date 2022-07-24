@@ -1,5 +1,10 @@
 #!/bin/zsh
-# Extension Attribute to detect python.org versions of python3
+
+# Name: Get_Python.org_Python_Vers.sh
+# Version: 1.0
+# Created: 07-23-2022 by Michael Permann
+# Updated: 07-23-2022
+# The script is for reporting on Python.org installed python versions.
 
 function find_python_vers () {
     # Determine all Python paths
